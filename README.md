@@ -1,5 +1,5 @@
 # tindog - Responsive website
-Responsive website using Bootstrap
+Responsive website using Bootstrap and Fontawesome
 
 # Technologies
 -JavaScript
